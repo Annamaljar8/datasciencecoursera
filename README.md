@@ -1,5 +1,5 @@
 # datasciencecoursera
-##Goal of the Project
+## Goal of the Project
 
   1.  A tidy data set
   2.  A link to a Github repository with your script for performing the analysis
